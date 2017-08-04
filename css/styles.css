@@ -1,19 +1,21 @@
 body {
-  background: url("https://s-media-cache-ak0.pinimg.com/originals/30/f2/43/30f243cb8421eb5c53d0353a85a1c1c7.jpg");
+  background: url("https://t4.ftcdn.net/jpg/00/91/52/67/240_F_91526732_CjnRIHFpmV9CTtorbG1Ci9zRrMPCp0Bs.jpg");
 }
 h1 {
   color: purple;
   text-align: center;
-  text-shadow: 4px 4px black;
-  font-size: 40px;
+  text-shadow: 2px 2px black;
+  font-size: 45px;
 }
 h2 {
   font-size: 20px;
+  color: purple;
+  font-weight: bold;
 }
 .box1 {
   padding: 6px;
-  background-color: #deaef2;
-  border: 4px solid black;
+  background-color: #e4d0ed;
+  border: 2px solid black;
 }
 .box1 li {
   font-style: italic;
@@ -25,31 +27,40 @@ h2 {
   float: left;
   padding-right: 30px;
 }
-.am {
-  color: #ea85d5;
-}
-.bg {
-  color: #ea64ce;
-}
-.hi {
-  color: #ed3dc8;
-}
-.ul {
-  color: #c1039a;
-  font-weight: bolder;
-}
 .ttl {
   font-size: 20px;
   font-weight: bolder;
+  color: purple;
 }
 h3 {
   color: purple;
   font-size: 30px;
+  font-weight: bolder;
+  text-shadow: 2px 2px black;
 }
 p {
   color: purple;
   font-size: 20px;
+  font-weight: bolder;
 }
 #h3{
   text-align: center;
+}
+ol {
+  color: purple;
+  font-weight: bolder;
+  font-size: 16px;
+}
+ul {
+  color: purple;
+}
+#p {
+  text-shadow: 1px 1px black;
+}
+li a {
+  color: white;
+}
+.linktxt {
+  font-size: 16px;
+  font-weight: bolder;
 }
